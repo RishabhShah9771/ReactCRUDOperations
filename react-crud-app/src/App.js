@@ -3,7 +3,7 @@ import './App.css';
 
 // Sample data for demonstration
 const initialData = [
-  { id: 1, name: 'John Doe', email: 'john.doe@example.com' },
+  { id: 1, name: 'John Doe', email: 'Demo.doe@example.com' },
   { id: 2, name: 'Jane Doe', email: 'jane.doe@example.com' }
 ];
 
